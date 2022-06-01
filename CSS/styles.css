@@ -1,0 +1,39 @@
+
+*{
+    padding: 3px;
+    margin: 5px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3,h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color:purple;
+}
+li{
+    display: inline;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+}
+li.header{
+    color:gray;
+}
+.trailer{
+    align-self: center;
+    margin: 1vw 10vw;
+    width: 80vw;
+    height: 100vh;
+}
+.poster{
+    width: 300px;
+    float: right;
+    border: 5px solid black;
+}
+span{
+    color: blueviolet;
+}
+.footer{
+    background-color: whitesmoke;
+}
